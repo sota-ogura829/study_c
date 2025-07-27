@@ -1,7 +1,7 @@
 #ifndef DATAMANAGER_H
 #define DATAMANAGER_H
 
-#include "user_io.h"
+#include "user_io.h"　　// 構造体S_DATAを扱うため
 
 #define MAX_SIZE 100
 
