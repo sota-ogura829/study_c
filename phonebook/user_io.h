@@ -5,6 +5,7 @@
 #define RUN (1)
 #define NOT_RUN (0)
 
+//データを直接的に操作しないためここに持ってきました。
 typedef struct {
     int id;
     char name[ARRAY_SIZE];
