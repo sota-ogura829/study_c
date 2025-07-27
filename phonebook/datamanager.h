@@ -5,8 +5,6 @@
 
 #define MAX_SIZE 100
 
-extern int data_count;
-
 extern void DATA_ADD(S_DATA data);
 extern S_DATA DATA_VIEW(int output_count);
 extern void DATA_DELETE(int input_num);
