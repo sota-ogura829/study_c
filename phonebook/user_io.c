@@ -17,7 +17,6 @@ void ADD() {
     printf("Enter memo : ");
     scanf("%15s", data.memo);
 
-    //DATA_ADD(data.name, data.mail, data.memo);
     DATA_ADD(data);
     return;
 }
